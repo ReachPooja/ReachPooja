@@ -1,16 +1,15 @@
-### Hi there 👋
+## Namaste!🙏
 
-<!--
-**ReachPooja/ReachPooja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Flutter Developer
 
-Here are some ideas to get you started:
+- I’m working on my Portfolio
+- I’m currently learning UI/UX
+- Apart from programming, I like to explore Mathematics
+- Pronouns: she/her
+- Fun fact: I am a Mechanical Engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReachPooja&&show_icons=true&theme=tokyonight&line_height=35&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReachPooja&hide=css,html&theme=tokyonight&layout=compact">
