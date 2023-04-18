@@ -2,8 +2,7 @@
 
 I am a Flutter Developer
 
-- I’m working on my Portfolio
-<!-- - I’m currently learning Python -->
+- I’m working on my Portfolio<!-- - I’m currently learning Python -->
 - Apart from programming, I like to explore Mathematics
 - Pronouns: she/her
 - Fun fact: I am a Mechanical Engineer 
