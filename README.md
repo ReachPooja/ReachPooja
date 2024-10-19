@@ -2,9 +2,8 @@
 
 I am a Flutter Developer
 
-- I’m currently learning Python
+- I’m currently learning native android development
 - Apart from programming, I like to explore Mathematics
-- Pronouns: she/her
 - Fun fact: I am a Mechanical Engineer 
 
 
