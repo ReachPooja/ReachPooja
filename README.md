@@ -1,10 +1,12 @@
 ## Hello!
 
-I am a Flutter Developer
+#### I am a Mobile Developer, specializing in Flutter.
 
-- I’m currently learning native android development
-- Apart from programming, I like to explore Mathematics
-- Fun fact: I am a Mechanical Engineer 
+- Expert in writing clean code, BLoC state management, and creating dynamic and responsive UIs
+- Currently expanding my expertise by learning native Android development
+- Passionate about programming and exploring mathematical concepts in my free time
+- Mechanical Engineer by education, mobile developer by passion
+- Open to collaboration on Flutter and Android projects
 
 
 ### Github Stats
