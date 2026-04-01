@@ -3,7 +3,7 @@
 #### I am a Mobile Developer, specializing in Flutter.
 
 - Expert in writing clean code, BLoC state management, and creating dynamic and responsive UIs
-- Currently expanding my expertise by learning native Android development
+- Currently expanding my expertise by learning native iOS development
 - Passionate about programming and exploring mathematical concepts in my free time
 - Mechanical Engineer by education, mobile developer by passion
 - Open to collaboration on Flutter and Android projects
