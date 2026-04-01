@@ -6,7 +6,7 @@
 - Currently expanding my expertise by learning native iOS development
 - Passionate about programming and exploring mathematical concepts in my free time
 - Mechanical Engineer by education, mobile developer by passion
-- Open to collaboration on Flutter and Android projects
+- Open to collaboration on Flutter and iOS projects
 
 
 ### Github Stats
